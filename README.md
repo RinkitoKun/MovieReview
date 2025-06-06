@@ -1,4 +1,7 @@
-# React + Vite
+# MovieReview
+Movie Review website using React, Tailwind CSS & AppWrite
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
